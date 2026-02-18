@@ -14,4 +14,10 @@ for x in range(-180,180,30):
     print(math.cos(x))
     print(math.tan(x))
 
+print("| cos x | sin x | tan x |")
+for x in range(-180,180,30):
+    print("|", math.cos(x), "|", math.sin(x), "|", math.tan(x), "|")
+
+
+
 
