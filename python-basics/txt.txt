@@ -1,0 +1,18 @@
+ID: 11206118001
+First Name: Elvis
+Last Name: Kiogora
+Phone: 8656565
+Courses: aa,  bb,  cc
+--------------------------
+ID: 11206118033
+First Name: Alvin
+Last Name: Njane
+Phone: 0116091498
+Courses: Nursing,  Medicine
+--------------------------
+ID: 11206118014
+First Name: Miranda
+Last Name: Ehcico
+Phone: 0722887774
+Courses: IT,  Medicine,  Vet Med
+--------------------------
